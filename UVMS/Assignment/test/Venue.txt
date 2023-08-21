@@ -1,3 +1,0 @@
-VE101;asd
-VE105;123
-VE106;Venue Test
